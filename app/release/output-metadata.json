@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.pwn3rzs.crto.android",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 230805,
+      "versionName": "1.1.230805.release",
+      "outputFile": "com.pwn3rzs.crto.android-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
